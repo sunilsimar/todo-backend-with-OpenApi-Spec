@@ -58,6 +58,7 @@
 						}
 					}
 				},
+				"description": "This is controller for creating todos",
 				"security": [],
 				"parameters": [
 					{
